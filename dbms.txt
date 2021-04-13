@@ -1,0 +1,44 @@
+amit
+Your contact number is: 9594234967Your name is: amit
+Your contact number is: 9594234967
+Your current address is: python park , java building , c wing
+Your city name is: kalyanYour name is: ankush 
+Your roll number is: 26 
+Your contact number is: 8723892194
+Your current address is: rajstan park,kalwa
+Your city name is: Thane
+
+new student details are : 
+Your name is: shubham 
+Your roll number is: 51 
+Your contact number is: 8974657433
+Your current address is: hello building,new park,bandra
+Your city name is: mumbai
+Your roll number is: 67
+Your roll number is: 90
+Your roll number is: 23
+Your roll number is: 23
+Your roll number is: 23
+Your roll number is: asf
+Your roll number is: fsf
+Your roll number is: 234
+Your roll number is: cs
+Your roll number is: cd
+Your corrected name is: ShubhamYour current address is: xyz
+Your city name is: thabe
+Your roll number is: 34
+Your roll number is: 34
+Your city name is: mulund
+Your corrected name is: aj
+Your roll number is: 78 
+current roll list is: ['78']
+Your roll number is:  
+current roll list is: ['']
+Your roll number is:  
+current roll list is: ['']
+Your roll number is: 13 
+current roll list is: ['13']
+Your roll number is: 35 
+current roll list is: ['3', '5']
+Your roll number is: 89 
+current roll list is: ['8', '9']

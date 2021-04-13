@@ -1,0 +1,12 @@
+
+
+ roll number is: 13 
+ roll number is: 12 
+ roll number is: 31 
+ roll number is: 12 
+ roll number is: 12 [None]  + ['dsa']  + ['fdf'] + ['fs'] + [243434]
+ROll No: [12]  + 
+name: ['fs']  + 
+address: ['gd'] + 
+city: ['fs'] + 
+mobile_no: [24424]
